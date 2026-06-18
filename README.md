@@ -1,24 +1,42 @@
-# 💫 About Me:
-Hi, I'm Ricardo Lopez, an Electronics and Communication Engineering student at SRMIST Ramapuram.<br>I am passionate about embedded systems, aerospace technology, artificial intelligence, and robotics.<br>I enjoy building innovative hardware and IoT solutions that solve real-world problems.<br>My experience includes developing autonomous rovers, AI-powered monitoring systems, and satellite-related projects.<br>I am always eager to learn, collaborate, and contribute to cutting-edge technological advancements.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=RICARDO%20LOPEZ&fontSize=70&fontColor=ffffff&animation=twinkling&theme=dark" width="100%" alt="Header Banner" />
+</div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9061FF&center=true&vCenter=true&width=500&lines=Electronics+%26+Communication+Eng.;IoT+%26+Robotics+Developer;Precision+Agriculture+Tech" alt="Typing Animation" />
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ricardo-alvaro-lopez/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rl6930@srmist.edu.in) 
+<div align="center">
+  <a href="https://srmrmp.edu.in/"><img src="https://img.shields.io/badge/Academic-SRMIST%20Ramapuram-4A154B?style=flat-square&logo=read-the-docs&logoColor=white" alt="Academic Institution" /></a>
+  <img src="https://img.shields.io/badge/CGPA-9.2-6B46C1?style=flat-square&logo=google-scholar&logoColor=white" alt="CGPA" />
+  <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-3182CE?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ricardo-lopez-codes&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ricardo-lopez-codes&theme=github_dark_dimmed&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ricardo-lopez-codes&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ricardo-lopez-codes&theme=gruvbox_light&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Premium-7C3AED?style=for-the-badge&logo=appveyor&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ricardo.lopez@example.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ricardo-lopez-codes&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ricardolopez-dev&color=7C3AED&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ricardolopez-dev?label=Followers&style=flat-square&color=6B46C1" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/ricardolopez-dev?label=Stars&style=flat-square&color=4C1D95" alt="Stars" />
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 2. About Section
+
+### Professional Biography
+I am an electronics and systems engineer deeply passionate about bridging hardware architecture with intelligent software ecosystems. Currently pursuing a B.Tech in Electronics and Communication Engineering (ECE) at SRMIST Ramapuram, I specialize in developing embedded hardware configurations, low-power telemetry modules, and intelligent automation systems. My development philosophy is rooted in a product-engineering mindset—ensuring that every circuit designed and codebase deployed balances functional performance, operational constraints, and manufacturing practicality.
+
+### Core Architecture Focus
+* **Embedded Software Engineering:** Designing resource-optimized, bare-metal and RTOS firmware infrastructures for microcontrollers to manage low-latency asynchronous sensor polling.
+* **AI/ML Hardware Edge Integration:** Deploying local predictive analytics, algorithmic sensor filters, and computational inference logic onto power-constrained edge computing setups.
+* **Full-Stack IoT Infrastructure:** architecting telemetry datalinks, microservice bridges, and web-based monitoring dashboards to translate sensor diagnostics into actionable field insights.
