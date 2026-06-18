@@ -1,42 +1,197 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=RICARDO%20LOPEZ&fontSize=70&fontColor=ffffff&animation=twinkling&theme=dark" width="100%" alt="Header Banner" />
-</div>
+# Hi 👋, I'm Ricardo Lopez
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9061FF&center=true&vCenter=true&width=500&lines=Electronics+%26+Communication+Eng.;IoT+%26+Robotics+Developer;Precision+Agriculture+Tech" alt="Typing Animation" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Ricardo+Lopez;Embedded+Systems+Developer;IoT+Developer;Aerospace+%26+Embedded+Systems+Enthusiast;Building+Innovative+Hardware+Solutions" />
+</p>
 
-<div align="center">
-  <a href="https://srmrmp.edu.in/"><img src="https://img.shields.io/badge/Academic-SRMIST%20Ramapuram-4A154B?style=flat-square&logo=read-the-docs&logoColor=white" alt="Academic Institution" /></a>
-  <img src="https://img.shields.io/badge/CGPA-9.2-6B46C1?style=flat-square&logo=google-scholar&logoColor=white" alt="CGPA" />
-  <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-3182CE?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/SRMIST-ECE-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Embedded%20Systems-Developer-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IoT-Developer-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Aerospace-Enthusiast-purple?style=for-the-badge" />
+</p>
 
-<br />
-
-<div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Premium-7C3AED?style=for-the-badge&logo=appveyor&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:ricardo.lopez@example.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ricardolopez-dev&color=7C3AED&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ricardolopez-dev?label=Followers&style=flat-square&color=6B46C1" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/ricardolopez-dev?label=Stars&style=flat-square&color=4C1D95" alt="Stars" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ricardo-lopez-codes&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 ---
 
-## 2. About Section
+# 🚀 About Me
 
-### Professional Biography
-I am an electronics and systems engineer deeply passionate about bridging hardware architecture with intelligent software ecosystems. Currently pursuing a B.Tech in Electronics and Communication Engineering (ECE) at SRMIST Ramapuram, I specialize in developing embedded hardware configurations, low-power telemetry modules, and intelligent automation systems. My development philosophy is rooted in a product-engineering mindset—ensuring that every circuit designed and codebase deployed balances functional performance, operational constraints, and manufacturing practicality.
+🎓 Electronics & Communication Engineering Student at **SRM Institute of Science and Technology, Ramapuram**
 
-### Core Architecture Focus
-* **Embedded Software Engineering:** Designing resource-optimized, bare-metal and RTOS firmware infrastructures for microcontrollers to manage low-latency asynchronous sensor polling.
-* **AI/ML Hardware Edge Integration:** Deploying local predictive analytics, algorithmic sensor filters, and computational inference logic onto power-constrained edge computing setups.
-* **Full-Stack IoT Infrastructure:** architecting telemetry datalinks, microservice bridges, and web-based monitoring dashboards to translate sensor diagnostics into actionable field insights.
+🔭 Passionate about:
+
+* Embedded Systems
+* Internet of Things (IoT)
+* Aerospace Electronics
+* Satellite & CanSat Development
+* AI-Powered Hardware Solutions
+* PCB Design & Hardware Prototyping
+
+⚡ I enjoy building innovative engineering solutions using ESP32, Raspberry Pi, Computer Vision, Sensors, Wireless Communication, and Embedded AI.
+
+🌱 Currently Exploring:
+
+* Advanced Embedded Systems
+* Satellite Communication
+* Aerospace Technologies
+* AI for Edge Devices
+* High-Reliability Electronics
+
+---
+
+# 🏆 Achievements
+
+🥇 **Techno-A-Thon 2025 — First Place**
+
+🥈 **Micronex'25 Paper Presentation — Runner Up**
+
+🏅 **Prothothon'25 — Theme Prize Winner**
+
+🚀 **Smart India Hackathon (SIH) — College Finalist**
+
+---
+
+# 💻 Programming Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html" />
+</p>
+
+---
+
+# 🛠️ Tools & Technologies
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,matlab,git,github,vscode" />
+</p>
+
+### Embedded Platforms
+
+* ESP32
+* Raspberry Pi
+* Arduino
+* Sensor Integration
+* Wireless Communication
+
+### Engineering Software
+
+* Arduino IDE
+* KiCad
+* Fusion 360
+* MATLAB
+* Git & GitHub
+
+---
+
+# 🚀 Featured Projects
+
+### 🌾 Field-Eye
+
+AI-powered agricultural rover for pest detection and plant health monitoring.
+
+### 🚗 Vital Drive
+
+IoT-based in-car emergency health monitoring and emergency response system.
+
+### 🛰️ CanSat Project
+
+Satellite-inspired embedded system featuring telemetry, sensing, and wireless communication.
+
+### 🦷 Smart Dental Wax Melter
+
+Portable temperature-controlled dental wax melting system.
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ricardo-lopez-codes&show_icons=true&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-lopez-codes&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ricardo-lopez-codes&theme=tokyonight" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ricardo-lopez-codes&theme=tokyo-night" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ricardo-lopez-codes&theme=tokyonight&row=2&column=4" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/ricardo-lopez-codes/ricardo-lopez-codes/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+# 🎯 Areas of Interest
+
+🔹 Embedded Systems
+
+🔹 Internet of Things (IoT)
+
+🔹 Aerospace & Satellite Systems
+
+🔹 PCB Design
+
+🔹 Robotics
+
+🔹 Computer Vision
+
+🔹 Embedded AI
+
+🔹 Wireless Communication
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/ricardo-alvaro-lopez/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://ricardo-lopez-codes.github.io/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+</a>
+
+<a href="mailto:rl6930@srmist.edu.in">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+💡 Engineering is not just about building devices — it's about creating solutions that make a difference.
+</h3>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:6A5ACD&height=120&section=footer"/>
+</p>
